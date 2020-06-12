@@ -20,7 +20,7 @@ jobs:
         run: chmod +x gradlew
       - name: Build
         run: |
-          ./gradlew assembleDebug
+          sudo ./gradlew assembleDebug
       - name: Store generated APK file
         uses: actions/upload-artifact@v1
         with:
