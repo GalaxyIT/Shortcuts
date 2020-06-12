@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">捷徑</string>
+    <string name="title_shortcuts">我的捷徑</string>
+    <string name="title_automation">自動化</string>
+    <string name="title_libraries">捷徑資料庫</string>
+</resources>
